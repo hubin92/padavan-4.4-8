@@ -11,7 +11,7 @@ on:
         description: 'Please select the model to compile'
         options:
         - 'R2100'
-        default: 'K2P'
+        default: 'RM2100'
       release:
         type: boolean
         description: 'upload to release'
